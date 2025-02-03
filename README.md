@@ -120,11 +120,13 @@ Welcome to the **Task Management System**, a robust and user-friendly applicatio
 ---
 
 ## Screenshots 📸
-(https://github.com/user-attachments/assets/167e6362-b760-4307-878b-56cdf846d6ed)
-*Dashboard Overview*
+![Screenshot 2024-12-19 at 14-05-41 Dashboard - Laravel](https://github.com/user-attachments/assets/76de6d7c-93c6-43f4-9cf4-3890290348ab)
 
-(https://github.com/user-attachments/assets/81e6c6e2-3b5c-49e2-b939-7d346d3a2f32)
-(https://github.com/user-attachments/assets/633bd35b-726c-4e2f-a42c-6a96c3cacea6)
+*Dashboard Overview*
+![Screenshot 2024-12-19 at 14-06-03 Project Voluptas ut non quia suscipit autem ipsa est doloremque  - Laravel](https://github.com/user-attachments/assets/42cda0f4-6773-42b1-a645-c39b1a9822d5)
+
+![Screenshot 2024-12-19 at 14-05-27 Projects - Laravel](https://github.com/user-attachments/assets/f193279b-346a-4cdc-8cf7-365b594d80e7)
+
 *Projects List*
 
 
